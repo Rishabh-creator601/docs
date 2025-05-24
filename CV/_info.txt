@@ -1,0 +1,3 @@
+The file "savvy" IN COMPUTER VISION is tough and not understandable easily but its is good ref  
+Stable Diffusion => GENERATING AI IMAGES ||  LLMS oriented  with torch and different AI models Related to IT 
+Vision systems => good understanding of SSD, YOLO, GANS , Tranfer Learning models like maths and theory wise NOT FOR PROGRAMMIN ONLY BOOK 
